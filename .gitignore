@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.log
+*.zim
+*.tar.gz
+.DS_Store
